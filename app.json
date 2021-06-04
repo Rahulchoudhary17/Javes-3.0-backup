@@ -15,7 +15,7 @@
   "env": {
     "TG_API_KEY": {
       "description": "Get this value from my.telegram.org. Don't Steal May Your Account Get ban.[IMPORTANT]",
-      "value": "1696457"
+      "value": "5638421"
     },
     "MAX_FLOOD_IN_P_M_S": {
       "description": "For Pm Protect Warns ",
@@ -29,7 +29,7 @@
     },
     "TG_API_HASH": {
       "description": "Get this value from my.telegram.org. Don't Steal may Your Account Get ban.[IMPORTANT]",
-      "value": ""
+      "value": "d7b309e8e054f6bc3ba1fee8fe0c7cba"
     },
     "TG_STRING_SESSION": {
       "description": "Get this value by running [python3 string_session.py] in Termux or heroku[IMPORTANT]",
@@ -37,7 +37,7 @@
     },
     "HEROKU_APIKEY": {
       "description": "very important for !update command to make javes 3.0 up-to-date , get it from 'https://dashboard.heroku.com/account. see example below ",
-      "value": ""   
+      "value": "e33041f8-a47d-4334-b963-be794bc8c137"   
     },
     "HEROKU_APPNAME": {
       "description": "enter this app name again here, very important for !update command to make javes 3.0 up-to-date ",
@@ -75,7 +75,7 @@
     },
     "BOTLOG": {
       "description": "Recommed to true ,BOTLOG_CHATID must be filled correct if you set it true",
-      "value": "True",
+      "value": "False",
       "required": false
     },
     "CUSTOM_CMD2": {
@@ -90,12 +90,12 @@
     },
     "BOTLOG_CHATID": {
       "description": "Important for wark some plugins,bot logs , make super group with @missrose_bot then type /id to get this value",
-      "value": "-1001417703271",
+      "value": "-1001292853279",
       "required": true
     },
     "PMLOG_CHATID": {
       "description": "Important for work some plugins,like pm loging , make super group with @missrose_bot then type /id to get this value",
-      "value": "-1001159218396",
+      "value": "-1001292853279",
       "required": true
     },
     "CONSOLE_LOGGER_VERBOSE": {
@@ -195,47 +195,47 @@
     },
     "LOGSPAMMER": {
       "description": "BOTLOG_CHATID must be filled correct if you set it true",
-      "value": "True",
+      "value": "False",
       "required": false
     },
     "TAG_LOG": {
       "description": "Important for wark some plugins,taglogs logs , make super group with @missrose_bot then type /id to get this value then add your inline bot if u have set later on add some vars TG_BOT_USER_NAME_BF_HER , TG_BOT_TOKEN_BF_HER ,INLINE_MODE=True,then add your inline bot in yout personal group",
-      "value": "-1001230114424",
+      "value": "-1001292853279",
       "required": true
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "",
+      "value": "@AT_WORLDS_END_PUBLIC_BOT",
       "required": true
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the token of your bot. And Don't Forget To Turn of inline Mode on bot settings. Get it.",
-      "value": "",
+      "value": "1862972381:AAFhn_uUwOfEzC_2iN_320pBtD2fV3Q3BUA",
       "required": true
     },
     "INLINE_MODE": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and Turn of inline Mode on bot settings. Get it.",
-      "value": "True",
+      "value": "False",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "Enter same value u entered in TG_BOT_TOKEN_BF_HER",
-      "value": "",
+      "value": "1862972381:AAFhn_uUwOfEzC_2iN_320pBtD2fV3Q3BUA",
       "required": true
     },
     "WAFU_CHATID": {
       "description": "To Log ALL WAFU NAMES WHERE U CAN'T USE !savewafu FOR AUTO /protecc for @loli_harem_bot",
-      "value": "-1001472904163",
+      "value": "-1001292853279",
       "required": false
     },    
 	"FED_LOGGER": {
       "description": "for fban-unfban module add @MissRose_bot to that group make it admin get that group id by /id cmd and u r ready to go else there may be error",
-      "value": "-1001451354500",
+      "value": "-1001292853279",
       "required": false
     },
     "PLUGIN_CHANNEL": {
       "description": "for !extdl command to install external modules that are in your channel or u keep in your  channel to install them externally", 
-      "value": "-1001336057285",
+      "value": "-1001292853279",
       "required": false
     }
   }
